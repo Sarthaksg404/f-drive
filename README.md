@@ -249,20 +249,3 @@ Authorization: Bearer {access_token}
 > NOTE: Your access token must be granted to use above API calls if requested scope of access token doesn't match with your API call
 > **scope\_mismatch\_error** will return in JSON form.
 
-## Author
-
-👤    **Himanshu Bhutani**
-
-* Twitter: [@ihimmy](https://twitter.com/ihimmy)
-* Github: [@ihimanshubhutani](https://github.com/ihimanshubhutani)
-* LinkedIn: [@himanshu-bhutani-173966140](https://linkedin.com/in/himanshu-bhutani-173966140)
-
-## Show your support
-
-Give a   ⭐️     to this project if you liked it or it have helped you!
-
-
-## 📝  License
-
-Copyright © 2020 [Himanshu Bhutani](https://github.com/ihimanshubhutani).
-This project is [MIT](https://github.com/ihimanshubhutani/f-drive/blob/f-drive/LICENSE) licensed.
